@@ -26,4 +26,4 @@ F = A'B' + A'C + AB'C + ABC' -> Fully Simplified<br>
 ## Challenges 
 While simplifying the Boolean equation, one of the main challenges I faced was revisiting and clearly understanding the core Boolean algebra properties, especially the absorption law, distribution, and combination rules. Remembering how and when to apply each identity required careful review and consideration. Simplifying expressions like B'C' + B'C into B' was not immediately intuitive, and I had to work step by step to verify I was not overlooking anything. Writing out each step and checking against known properties helped solidify my understanding and avoid mistakes. <br>
 
-## [Flowchart](images/Boolean.drawio(5)
+## [Flowchart](images/Boolean.drawio(5).png)
